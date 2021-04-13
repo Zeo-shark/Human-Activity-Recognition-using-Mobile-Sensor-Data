@@ -1,0 +1,10 @@
+mode v1,v4 High Accuracy 98.25
+
+model_v2 Run
+
+model v3,v5 83
+
+
+v9,v8,v10 Run Detection
+v8 Run+walk Detection
+v9, v10 Run Detection
